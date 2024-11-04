@@ -1,4 +1,4 @@
-Hi 👋 My name is Decoded
+Hi 👋
 ========================
 
 ### Skills <p align="left">
