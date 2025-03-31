@@ -8,4 +8,4 @@ Hi 👋
 
 ### Support
 
-<a href="https://www.buymeacoffee.com/itsDecoded"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+<a href="https://polar.sh/python"><img src="https://i.imgur.com/4lr5eIj.png" width="150"/></a>
